@@ -1,0 +1,9 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.header{
+    display:flex;
+}
+.header-part{
+    width:50%;
+}
